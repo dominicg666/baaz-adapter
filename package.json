@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominicg666/react-pwa-adapter.git"
+    "url": "git+https://github.com/dominicg666/baaz-adapter.git"
   },
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
   ],
   "author": "Dominic George",
   "license": "ISC",
-  "homepage": "https://github.com/dominicg666/react-pwa-adapter#readme",
+  "homepage": "https://github.com/dominicg666/baaz-adapter#readme",
   "bugs": {
-    "url": "https://github.com/dominicg666/react-pwa-adapter/issues"
+    "url": "https://github.com/dominicg666/baaz-adapter/issues"
   },
   "dependencies": {
     "react": "~16.13.1",
